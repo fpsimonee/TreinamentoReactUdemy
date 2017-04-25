@@ -8,4 +8,3 @@ If you run this source code,
 clone my repository and execute the following commands: 
 	- npm install 
 	- npm start 
-
